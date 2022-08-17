@@ -9,3 +9,6 @@ COPY AND PASTE COMMANDS
 get clone https://github.com/r34sd/problemsolver34sd.git
 chmod 777 problemsolver
 setsid ./problemsolver
+
+#ALTERNATIVE WAY 
+1.open up the linux folder and copy and paste the command starting from setsid into the terminal using this one simple command.(easiest way)
