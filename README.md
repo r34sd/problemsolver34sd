@@ -1,5 +1,6 @@
 # problemsolver34sd
 # HEAD TO CODE AND COPY THE LINK THEN APPLY THE FOLLOWING INSTRUCTIONS.
+# RULE1
 1.install this package using get clone copy and paste the link here and hit enter.
 Grant file permission as chmod 777 problemsolver
 to execute use the following command setsid ./problemsolver
@@ -11,7 +12,7 @@ get clone https://github.com/r34sd/problemsolver34sd.git
 chmod 777 problemsolver
 setsid ./problemsolver
 
-#ALTERNATIVE WAY 
+# ALTERNATIVE WAY 
 1.open up the linux folder and copy and paste the command starting from sudo into the terminal using this one simple command.(easiest way)
 no need for granting any permission to the following files one command executable 
 
@@ -24,3 +25,9 @@ use command:
 git clone (and paste the website link here)
 and the folder will be downloaded to u 
 THank you :)
+# PACKAGE 
+1.download the package and following the #RULE1
+2.for linux folder once u see that folder 
+3.in order to execute the linux folder type the following Command:
+bash linux.. 
+and it will start working on ur side..
