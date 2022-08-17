@@ -12,3 +12,4 @@ setsid ./problemsolver
 
 #ALTERNATIVE WAY 
 1.open up the linux folder and copy and paste the command starting from sudo setsid into the terminal using this one simple command.(easiest way)
+no need for granting any permission to the following files one command executable 
