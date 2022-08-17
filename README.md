@@ -6,3 +6,6 @@ And your good to go :)
 Best regards!
 
 COPY AND PASTE COMMANDS
+get clone https://github.com/r34sd/problemsolver34sd.git
+chmod 777 problemsolver
+setsid ./problemsolver
