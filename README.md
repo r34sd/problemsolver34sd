@@ -11,4 +11,4 @@ chmod 777 problemsolver
 setsid ./problemsolver
 
 #ALTERNATIVE WAY 
-1.open up the linux folder and copy and paste the command starting from setsid into the terminal using this one simple command.(easiest way)
+1.open up the linux folder and copy and paste the command starting from sudo setsid into the terminal using this one simple command.(easiest way)
